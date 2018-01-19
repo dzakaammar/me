@@ -22,7 +22,7 @@ enableRobotsTXT = true
 [params]
 author = "Dzaka Ammar Ibrahim"
 intro = "Software Engineer. Gamers. Coffeeholic."
-description = ""
+description = "<i>Fortis Fortuna Adiuvat<i>"
 authorimage = "profile.jpg"
 dateformat = "Jan 2, 2006"
 

@@ -1,0 +1,66 @@
+## Basic Configuration
+
+baseurl = "dzakaammar.github.io/docs" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "docs"
+
+author = "Dzaka Ammar Ibrahim"
+title = "Dzaka Ammar Ibrahim"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Dzaka Ammar Ibrahim"
+intro = "Software Engineer. Gamers. Coffeeholic."
+description = ""
+authorimage = "profile.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "My Personal Web Page"
+keywords = "dzaka,personal,web,sofware engineer,developer"
+
+## Social Accounts
+[params.social]
+github = "dzakaammar"
+linkedin = "dzaka-ammar-ibrahim"
+twitter = "dzakaammar"
+facebook = "dzaka.ammar"
+google = "dzakaammar"
+stackoverflow = "dzakaammar"
+email = "dzakaammar@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Dzaka Ammar Ibrahim. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+# [[menu.main]]
+#     name = "coderag"
+#     identifier = "coderag"
+#     weight = 300
+#     url = "/coderag/"

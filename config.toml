@@ -1,7 +1,7 @@
 baseurl = "https://dzakaammar.github.io/me/"
 publishdir = "docs"
 languageCode = "en-US"
-title = "Dzaka Ammar Ibrahim"
+title = "dzakaammar"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code

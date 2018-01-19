@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dzakaammar.github.io/me/posts/my-first-post/</loc>
+    <lastmod>2018-01-19T16:33:46+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dzakaammar.github.io/me/blog/third/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
@@ -28,13 +33,13 @@
   </url>
   
   <url>
-    <loc>https://dzakaammar.github.io/me/tags/about/</loc>
+    <loc>https://dzakaammar.github.io/me/categories/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dzakaammar.github.io/me/categories/about/</loc>
+    <loc>https://dzakaammar.github.io/me/tags/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -101,7 +106,7 @@
   
   <url>
     <loc>https://dzakaammar.github.io/me/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <lastmod>2018-01-19T16:33:46+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,6 +131,12 @@
   <url>
     <loc>https://dzakaammar.github.io/me/tags/pied-piper/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dzakaammar.github.io/me/posts/</loc>
+    <lastmod>2018-01-19T16:33:46+07:00</lastmod>
     <priority>0</priority>
   </url>
   

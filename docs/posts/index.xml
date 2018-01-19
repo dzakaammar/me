@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dzaka Ammar Ibrahim</title>
+    <link>https://dzakaammar.github.io/me/posts/</link>
+    <description>Recent content in Posts on Dzaka Ammar Ibrahim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Jan 2018 16:33:46 +0700</lastBuildDate>
+    
+	<atom:link href="https://dzakaammar.github.io/me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://dzakaammar.github.io/me/posts/my-first-post/</link>
+      <pubDate>Fri, 19 Jan 2018 16:33:46 +0700</pubDate>
+      
+      <guid>https://dzakaammar.github.io/me/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

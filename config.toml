@@ -1,8 +1,7 @@
 ## Basic Configuration
-
 baseurl = "https://dzakaammar.github.io/me/" 
-builddrafts = false
-canonifyurls = false
+builddrafts = true
+canonifyurls = true
 languageCode = "en-US"
 
 contentdir = "content"

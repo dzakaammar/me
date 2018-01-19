@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "dzakaammar.github.io/docs" 
+baseurl = "dzakaammar.github.io/me" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"

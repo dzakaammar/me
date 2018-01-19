@@ -1,65 +1,44 @@
-## Basic Configuration
-baseurl = "https://dzakaammar.github.io/me/" 
-builddrafts = true
-canonifyurls = true
-languageCode = "en-US"
-
-contentdir = "content"
-layoutdir = "layouts"
+baseurl = "https://dzakaammar.github.io/me/"
 publishdir = "docs"
-
-author = "Dzaka Ammar Ibrahim"
+languageCode = "en-US"
 title = "Dzaka Ammar Ibrahim"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
 
-theme = "hugo-goa"
+[permalinks]
+  post = "/:year/:month/:day/:slug"
 
-## Hugo Built-in Features
-# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-# googleAnalytics = "XYZ"
-enableRobotsTXT = true
-
-## Site Settings
 [params]
-author = "Dzaka Ammar Ibrahim"
-intro = "Software Engineer. Gamers. Coffeeholic."
-description = "Fortis Fortuna Adiuvat"
-authorimage = "profile.jpg"
-dateformat = "Jan 2, 2006"
+  avatar = "profile.jpg"
+  author = "Dzaka Ammar Ibrahim"
+  description = "My personal website"
 
-## Site Meta Settings
-[params.meta]
-description = "My Personal Web Page"
-keywords = "dzaka,personal,web,sofware engineer,developer"
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
 
-## Social Accounts
 [params.social]
-github = "dzakaammar"
-linkedin = "dzaka-ammar-ibrahim"
-twitter = "dzakaammar"
-facebook = "dzaka.ammar"
-google = "dzakaammar"
-stackoverflow = "dzakaammar"
-email = "dzakaammar@gmail.com"
-
-## Extras
-[params.extra]
-copyright = "© 2018. Dzaka Ammar Ibrahim. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
-poweredby = true
-highlightjs = true
+  Github        = "dzakaammar"
+  Email         = "dzakaammar@gmail.com"
+  Twitter       = "dzakaammar"
+  LinkedIn      = "dzaka-ammar-ibrahim"
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
 [[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
-# [[menu.main]]
-#     name = "coderag"
-#     identifier = "coderag"
-#     weight = 300
-#     url = "/coderag/"
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"

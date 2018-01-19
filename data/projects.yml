@@ -1,0 +1,13 @@
+name: Projects
+source:
+  - icon: fa fa-globe
+    name: CBI CRM Information System
+    description: This is a web app to manage client relationship in my internal company. I built it with PHP Laravel and MySQL. 
+
+  - icon: fa fa-globe
+    name: Aveecena Computer Based Test
+    description: A web app that used for online exam. Built on PHP Laravel, MySQL, and JQuery
+
+  - icon: fa fa-globe
+    name: CBI Sentiment Analytic
+    description: On Progress.
